@@ -1,3 +1,7 @@
+link for the dataset used to train the model
+https://neuralworksai-my.sharepoint.com/:f:/g/personal/akash_c_goml_io/EqWRzEwiRlxHj
+
+
 # Airline Reviews Sentiment Analysis
 
 This project performs sentiment analysis on airline reviews by classifying them as Positive or Negative. The model is trained using TF-IDF vectorization and an XGBoost classifier. The dataset includes airline reviews with an overall score, which is used to determine sentiment.
